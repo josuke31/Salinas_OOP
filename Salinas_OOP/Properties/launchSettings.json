@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Salinas_OOP": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true
+    }
+  }
+}
